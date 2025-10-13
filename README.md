@@ -33,3 +33,13 @@ This would not only attract a younger audience but also extend viewership for no
 - **Region-Specific Packages:** We could create tailored packages for each province, featuring a selection of locally produced shows. This approach would not only foster relatable content but also empower and engage individuals from those regions.
 
 - **Loyalty Discounts:** We could implement price reductions for our loyal customers.
+
+  ## **🔨Tools used**
+
+  - Google Looker
+ 
+  - Databricks (SQL)
+ 
+  - MS Excel
+ 
+  - Canva

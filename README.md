@@ -43,3 +43,9 @@ This would not only attract a younger audience but also extend viewership for no
   - MS Excel
  
   - Canva
+ 
+  ## **🔗Links**
+
+  - Link to Interactive Dashboard: [Interactive Dashboard](https://lookerstudio.google.com/s/uCIlQynltgo)
+ 
+  - Link to Canva presentation: [Presentation](https://www.canva.com/design/DAG1neWyoQw/AL6jiLgWLUpAv9N5KlhbIQ/edit?utm_content=DAG1neWyoQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
